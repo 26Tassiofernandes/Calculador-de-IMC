@@ -8,8 +8,8 @@
   
 </div>
 
-<!---<img src="https://user-images.githubusercontent.com/86972667/220393489-a838754a-5575-4401-9b23-9884e57cedf8.png" alt="imagem">-->
-<a href="http://127.0.0.1:5501/Calculador%20de%20IMC/imc.html"><img src="http://127.0.0.1:5501/Calculador%20de%20IMC/imc.html" alt="imagem"></a>
+<img src="https://user-images.githubusercontent.com/86972667/220393489-a838754a-5575-4401-9b23-9884e57cedf8.png" alt="imagem">
+
 
 ##
 
