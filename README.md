@@ -13,7 +13,7 @@
 ##
 
 ### 📜 Descrição 
-<p>Calcule seu IMC de maneira rápida e intuitiva com essa interface simples e básica</p>
+<p>Calcule seu IMC de maneira rápida e intuitiva com uma interface simples e básica.</p>
 
 ##
 
