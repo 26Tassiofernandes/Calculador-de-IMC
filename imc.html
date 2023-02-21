@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculador de IMC</title>
+    <link rel="shortcut icon" href="imagens/favicon imc.webp" type="image/x-icon">
+    <link rel="stylesheet" href="imc(estilo).css">
+
+</head>
+<body>
+
+    <section>
+
+        <h1>Calcule seu IMC</h1>
+        
+
+        <div>
+            <p>
+                Altura (m) <br> <input type="number" name="altura" id="altura">
+            </p>
+
+        </div>
+                
+        <div>
+            <p>
+                Peso (kg) <br> <input type="number" name="peso" id="peso">
+            </p>
+
+        </div>
+
+        <div>
+
+            <p>
+                <input type="button" value="Calcular" id="calcular" onclick="calc()">
+            </p>
+
+            <p>
+                <input type="button" value="Resetar" id="resetar" onclick="reset()">
+            </p>
+
+        </div>
+
+        <div id="msg">
+            
+        </div>
+
+
+    </section>
+
+    <footer>
+        <p>Tássio Fernandes || All Rights Reserved</p>
+    </footer>
+
+    <script src="imc(codigo).js"></script>
+    
+</body>
+</html>
