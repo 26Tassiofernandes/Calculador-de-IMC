@@ -10,6 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/86972667/220393489-a838754a-5575-4401-9b23-9884e57cedf8.png" alt="imagem">
 
+### Link do projeto 🔗
+
+<a href="https://26tassiofernandes.github.io/Calculador-de-IMC/imc.html">Calculador de IMC</a> 
 
 ##
 
