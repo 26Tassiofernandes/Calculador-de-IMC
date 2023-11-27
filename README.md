@@ -39,7 +39,7 @@ Uma simples interface que calcula seu IMC de maneira rápida e instantânea.
 
 ### ⚒️ Como rodar?
 
-O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+O usuário apenas precisa seguir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
 
 ##
 
