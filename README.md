@@ -18,14 +18,34 @@
 ##
 
 ### 📜 Descrição 
-<p>Calcule seu IMC de maneira rápida e intuitiva com uma interface simples e básica.</p>
+
+Uma simples interface que calcula seu IMC de maneira rápida e instantânea.
 
 ##
 
-### ✏️ Licença 
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.</p>
+### 📚 Tecnologias tratadas nesse projeto
 
-## 
+- HTML
+- CSS
+- JavaScript
 
-### 👀 Observação
-<p> As fontes usadas na imagem foram baixadas em sites de terceiros, portanto, pode não funcionar em alguns navegadores.</p>
+##
+
+### ⚙ Requisitos
+
+- Ter um navegador da Web Moderno instalado em sua máquina.
+
+##
+
+### ⚒️ Como rodar?
+
+O usuário apenas precisa abrir o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+
+##
+
+### ✏️ Licença
+
+Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo.
+
+##
+
